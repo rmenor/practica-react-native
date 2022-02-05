@@ -58,3 +58,8 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+ios/Podfile.lock
+ios/Podfile.lock
+ios/Podfile.lock
+ios/practica.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+yarn.lock
